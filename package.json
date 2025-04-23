@@ -1,5 +1,5 @@
 {
-  "name": "excel-tools-website",
+  "name": "file-tools-website",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "vue": "^3.3.0",
+    "vue-router": "^4.2.0",
     "xlsx": "^0.18.5",
     "file-saver": "^2.0.5",
     "jszip": "^3.10.1",
-    "pdf-lib": "^1.17.1",
-    "jspdf": "^2.5.1"
+    "pdf-lib": "^1.17.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
